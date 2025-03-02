@@ -2,7 +2,8 @@
 
 Welcome🙏🫶
 
-## Task:
+## Task
+
 - Create a VPC (Virtual Private Cloud) with CIDR block 10.0.0.0/16
 - Create a public subnet with CIDR block 10.0.1.0/24 in the above VPC.
 - Create a private subnet with CIDR block 10.0.2.0/24 in the above VPC.
